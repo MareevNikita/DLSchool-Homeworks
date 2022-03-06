@@ -1,1 +1,1 @@
-# Kaggle-Courses
+# DLSchool-Courses
